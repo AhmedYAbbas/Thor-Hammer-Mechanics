@@ -2,7 +2,7 @@
 I made Thor's hammer mechanics in unreal engine 5 using blueprint
 
 ## Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5X7XcN8TM74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Thor - Demo](https://img.youtube.com/vi/5X7XcN8TM74/0.jpg)](https://www.youtube.com/watch?v=5X7XcN8TM74 "Thor - Demo")
 
 ## Mjolnir (Hammer)
 <img src = "Media/Mjolnir/1.png"></img>
